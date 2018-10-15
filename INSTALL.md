@@ -16,8 +16,8 @@ https://gihub.com/opengribs/XyGrib/releases or on https://opengribs.org in the d
 ### Linux
 
 - Install the required libraries
-  - Ubuntu (recent editions): `sudo apt-get install build-essential git cmake qt5-default libpng-dev libopenjp2-7-dev libnova-dev libproj-dev zlib1g-dev libbz2-dev`
-  - Ubuntu Trusty: `sudo apt-get install build-essential git cmake qt5-default libpng-dev libopenjpeg-dev libnova-dev libproj-dev zlib1g-dev libbz2-dev`
+  - Ubuntu (recent editions): `sudo apt-get install build-essential git cmake qt5-default libpng-dev libopenjp2-7-dev libnova-dev libproj-dev zlib1g-dev libbz2-dev qttools5-dev-tools qttools5-dev`
+  - Ubuntu Trusty: `sudo apt-get install build-essential git cmake qt5-default libpng-dev libopenjpeg-dev libnova-dev libproj-dev zlib1g-dev libbz2-dev qttools5-dev-tools qttools5-dev`
   - Fedora 28: `sudo yum install gcc git cmake qt5-devel libpng-devel openjpeg2-devel libnova-devel libproj-devel zlib-devel bzip2-devel
   - openSUSE Tumbleweed: `sudo zypper install gcc git cmake libqt5-qtbase-devel libpng-devel openjpeg2-devel libnova-devel libproj-devel zlib-devel libbz2-devel
 
